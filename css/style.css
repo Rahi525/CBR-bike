@@ -1,0 +1,42 @@
+.cbr-bike-bg-color{
+    background: #264653;
+    height: 698px;
+}
+.cbr-bike-btn{
+    background: #E76F51;
+    width: 168px;
+    height: 44px;
+    border-radius: 5px;
+}
+.banner-img{
+    width: 552px;
+    height: 447px;
+}
+.feature-color{
+    color: #E76F51;
+}
+.feature-img{
+    width: 288px;
+    height: 243px;
+}
+.news-img{
+    filter: grayscale(25%);
+}
+.news-btn{
+    width: 160px;
+    height: 57px;
+    border: 1px solid #E76F51;
+    color: #E76F51;
+    font-weight: 500;
+}
+.news-btn:hover{
+    background: #E76F51;
+    color: white;
+    font-weight: 500;
+}
+.headline-color{
+    color: #E76F51;
+}
+.fa-star{
+    color: #E76F51;
+}
